@@ -14,7 +14,6 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.AREKBEE_METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: bnbsystems
           config_timezone: Europe/Warsaw
           plugin_achievements: 'yes'
