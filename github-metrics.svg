@@ -17,7 +17,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            Joined GitHub 7 years ago
+                            Joined GitHub 8 years ago
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -120,7 +120,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="347.420616478771" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="347.420616478771" y="0" width="71.96154709749514" height="8" fill="#c6538c"/>
                     <rect mask="url(#languages-bar)" x="419.3821635762662" y="0" width="26.86878286433394" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="446.2509464406001" y="0" width="6.818079756875727" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="446.2509464406001" y="0" width="6.818079756875727" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="453.0690261974758" y="0" width="5.543818241630855" height="8" fill="#fcb32c"/>
                     <rect mask="url(#languages-bar)" x="458.6128444391067" y="0" width="1.3871555608933355" height="8" fill="#89e051"/>
                 </svg>
@@ -179,7 +179,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 CSS
                             </div>
@@ -233,13 +233,8 @@
                             <div class="entry">
                                 <span class="value">3</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                18
-                                <div class="bottom">Nov.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 19
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -299,8 +294,13 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                31
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 1
-                                <div class="bottom">Dec.</div>
+                                <div class="bottom">Jan.</div>
                             </div>
                         </div>
                     </section>
@@ -310,13 +310,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                18
-                                <div class="bottom">Nov.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 19
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -376,15 +371,20 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                31
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 1
-                                <div class="bottom">Dec.</div>
+                                <div class="bottom">Jan.</div>
                             </div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 1 Dec 2024, 02:44:19 (timezone Europe/Warsaw) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Jan 2025, 02:24:51 (timezone Europe/Warsaw) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
